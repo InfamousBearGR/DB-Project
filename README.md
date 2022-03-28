@@ -6,7 +6,6 @@ in his profile. The manager can see availabe jobs, change information for his em
 The evaluator adds new jobs, evaluates the employees and uploads the report from the interview, grades etc. The admin can create new accounts, 
 companies, etc.
 The GUI is written in Java, just change the database info in the main file and you're good to go.
-The report is written in Greek, will write in English at some point.
 This project was created by me and a fellow student, our info is written in the report.
 
 Project το οποίο φτιάχτηκε ως μέρος του μαθήματος Βάσεις δεδομένων στο Πανεπιστήμιο που σπουδάζω (Τμήμα Μηχανικών Η/Υ και Πληροφορικής).
